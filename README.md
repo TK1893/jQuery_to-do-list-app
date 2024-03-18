@@ -1,4 +1,4 @@
-# jQueryv To-Do-List-App
+# jQuery To-Do-List-App
  
 ## The to-do-list-app has the following features
 
