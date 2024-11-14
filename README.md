@@ -23,7 +23,8 @@ A simple and interactive to-do list app built with HTML, CSS, jQuery, and jQuery
 
 ## Demo
 
-A live demo of the app is available at: [https://tk1893.github.io/jQuery_to-do-list-app/](https://tk1893.github.io/jQuery_to-do-list-app/)
+A live demo of the app is available at:  
+[https://tk1893.github.io/jQuery_to-do-list-app/](https://tk1893.github.io/jQuery_to-do-list-app/)
 
 ---
 
